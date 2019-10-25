@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">OS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="editTextInvalid">Preenchimento invalido</string>
+
+
+    <string name="fcm_token">FCM Token: %s</string>
+    <string name="notification_message">"Nova Os %1$s"</string>
+    <string name="item_count">"%1$s items"</string>
+
+
+    <string-array name="select_origem">
+        <item>Origem</item>
+        <item>Solicitação de Manutenção</item>
+        <item>Relatório de Fluxo Zerado</item>
+        <item>Aproveitamento Técnico Baixo</item>
+        <item>Índice de OCR Baixo</item>
+        <item>Índice de RFID Baixo</item>
+        <item>Coletas de Dados Off-Line</item>
+
+
+
+    </string-array>
+    <string-array name="select_contrato">
+        <item>Contrato</item>
+        <item>ANTT</item>
+        <item>DUTRA</item>
+        <item>AGETOP</item>
+        <item>ACCIONA</item>
+    </string-array>
+
+    <string-array name="select_osStatus">
+        <item>AGUARDANDO_ATENDIMENTO</item>
+        <item>ENCERRADA</item>
+        <item>AGUARDANDO_PECAS</item>
+        <item>CANCELADA</item>
+        <item>FECHADA</item>
+    </string-array>
+
+
+
+
+    <string-array name="select_resp">
+        <item>Responsavel</item>
+        <item>Matheus</item>
+        <item>Harry</item>
+        <item>William</item>
+        <item>1/2Kilo</item>
+    </string-array>
+</resources>

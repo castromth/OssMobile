@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552377264327",
+    "firebase_url": "https://kiwios.firebaseio.com",
+    "project_id": "kiwios",
+    "storage_bucket": "kiwios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552377264327:android:d6f88f6da8fdf9198576e2",
+        "android_client_info": {
+          "package_name": "com.example.os"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552377264327-e23sqfgh0rud15is4mk269idtjm5a4na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoZrBbOnS5AecKVh4KPz0J-C1WVZsWuHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552377264327-e23sqfgh0rud15is4mk269idtjm5a4na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
