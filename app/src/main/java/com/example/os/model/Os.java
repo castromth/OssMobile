@@ -10,7 +10,7 @@ public class Os {
     private String condSaida = "Sem registro";
     private String pecasUlti = "Sem registro";
 
-    private int status = 0;
+    private String status;
     private String dataAbert = "";
     private String origem = "";
     private String data = "";
@@ -40,7 +40,7 @@ public class Os {
         return contrato;
     }
 
-    public int getStatus() {
+    public String getStatus() {
         return status;
     }
 
@@ -137,7 +137,7 @@ public class Os {
     }
 
 
-    public void setStatus(int status) {
+    public void setStatus(String status) {
         this.status = status;
     }
 
